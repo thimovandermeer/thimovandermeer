@@ -7,8 +7,6 @@
 
 Currently i'm creating a HTTP server with Jonas Bennik Bolt & Merel Mourik :). 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/thvan-de)](https://github.com/JaeSeoKim/badge42)
-
 ### Skils
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img
 src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img 
