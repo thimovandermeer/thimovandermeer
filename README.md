@@ -5,7 +5,6 @@
 
 ### On my github you can find the projects I have been working on the last year. (checkout the autonomous robot project for some really cool stuff).
 
-Currently i'm creating a HTTP server with Jonas Bennik Bolt & Merel Mourik :). 
 
 ### Skils
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img
